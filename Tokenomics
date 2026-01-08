@@ -1,0 +1,52 @@
+### Tokenomics
+- **Total Supply:** 999,000,000,000 USI (999.00B)
+- **Decimals:** 18
+- **Standard:** BEP-20
+- **Network:** BNB Smart Chain (BSC)
+- **Minting:** Permanently Disabled
+- **Burning:** Not Implemented
+- **Transaction Fees/Taxes:** 0% (No Buy/Sell Tax)
+- **Administrative Controls:** None (No Owner Functions)
+
+100% of the total token supply was created at the moment of contract deployment. No additional tokens can ever be minted, and the supply remains fixed forever.
+
+The smart contract contains **no blacklist, pause, ownership override, or any administrative control mechanisms**. Once deployed, no entity — including the deployer — can modify contract behavior.
+
+This design guarantees maximum transparency, predictability, and decentralization, with all properties fully verifiable on BSCScan and other blockchain explorers.
+
+Tokenomics are **immutable and permanently set at deployment**, fully aligned with blockchain explorer transparency standards for community-driven utility tokens without financial mechanisms or promotional claims.
+
+### Contract Address and Verification
+**Smart Contract Address:**  
+[0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef](https://bscscan.com/address/0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef)
+
+**Verification Date on BSCScan:** December 04, 2025  
+Source code fully verified and publicly auditable.
+
+- [View Verified Source Code on BSCScan](https://bscscan.com/address/0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef#code)
+- [View Token Tracker & Holders on BSCScan](https://bscscan.com/token/0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef)
+
+### Immutable Features Explained
+The contract was intentionally designed without minting, burning, tax, or administrative functions. This ensures the token supply and behavior remain **fixed, predictable, and verifiable on-chain forever**.
+
+Absence of any owner privileges means the contract is effectively renounced — no one can alter its functionality post-deployment. This follows best practices for transparent, community-driven tokens.
+
+### Technical Specifications
+- **Token Name:** USI Moonik Token
+- **Token Symbol:** USI
+- **Deployment Date:** December 2025
+- **Initial & Maximum Supply:** 999,000,000,000 USI (fully allocated at genesis)
+- **Transfer Functionality:** Standard BEP-20 compliant with no hooks, modifiers, or taxes
+- **Auditability:** Full verified source code available on BSCScan for independent review
+
+These specifications support transparent demonstration of core blockchain principles such as fixed-supply tokens, contract immutability, and decentralization — without any financial or investment implications.
+
+### Compliance with Standards
+The token fully adheres to the BEP-20 standard, ensuring seamless compatibility with BSC wallets, DEXs, and explorers.
+
+No custom mechanisms or deviations that could suggest financial utility are present. All details are publicly verifiable to promote maximum transparency in accordance with explorer guidelines.
+
+### Additional Notes on Predictability & Transparency
+The completely fixed tokenomics eliminate any variability. Users can independently verify total supply, circulation, and transaction history directly on-chain at any time.
+
+This structure is ideal for educational and community purposes, clearly demonstrating blockchain immutability and trustless design.
