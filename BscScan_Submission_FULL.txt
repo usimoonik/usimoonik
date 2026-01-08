@@ -43,7 +43,7 @@ initialSupplyWhole: 999000000000
 =================================================================
 Project Information
 =================================================================
-Email: usimoonik@gmail.com
+Email: usi@usimoonik.com
 Telegram: https://t.me/usimoonik
 GitHub Repo: https://github.com/usimoonik/usimoonik
 
