@@ -110,6 +110,13 @@ Bitcointalk:https://bitcointalk.org/index.php?topic=5570878.new#new
 Telegram:https://t.me/usimoonik
 GitHub:https://github.com/usimoonik/usimoonik
 
+## Core Team Contributors
+
+- usi moonik (Founder & Maintainer)
+- amob animo (Technical Contributor) – GitHub: https://github.com/amobanimo/amob
+- houno minp (Developer Support) – GitHub: https://github.com/hounominp/houno
+
+All contributions are for educational and transparency purposes only.
 All channels are used strictly for transparency, documentation, educational communication, and community updates. No financial or promotional content is shared. Channels are managed directly by the core team, with no impersonation or third-party involvement.
 
 License
