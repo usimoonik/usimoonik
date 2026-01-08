@@ -1,0 +1,18 @@
+This page provides cryptographic proof that the deployer wallet of the USI Moonik Token smart contract is controlled by the project founder.
+
+The message was signed using the deployer wallet (the same wallet that created and verified the contract on BNB Smart Chain).
+
+### Signed Message Details:
+- **Signer Address (Deployer Wallet):**  
+  0x22f646f48aa8bf5c7d5dc5bb5f2d8da90641c449
+- **Signed Message:**  
+  "I am the owner and deployer of USI Moonik Token (USI) with contract address 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef. This signature verifies my ownership for transparency on usimoonik.com as of January 2026."
+- **Signature:**  
+  0xba60b469d307a0574c036389416348b5a6345e32bac19c26287466c37b5038763249cad6b5cf66e48ac86afa218477cd16ce054756ff1966eaa610ad5acb49911c
+
+### Public Verification on BscScan:
+This signature has been published and verified on BscScan (Verified Signature ID: #15078):
+
+[View Verified Signature on BscScan →](https://bscscan.com/verifySig/15078)
+
+Anyone can independently verify that the signature matches the message and was created by the deployer address using BscScan's built-in verification tool.
