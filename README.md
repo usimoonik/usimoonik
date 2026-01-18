@@ -116,6 +116,24 @@ GitHub:https://github.com/usimoonik/usimoonik
 - amob animo (Technical Contributor) – GitHub: https://github.com/amobanimo/amob
 - houno minp (Developer Support) – GitHub: https://github.com/hounominp/houno
 
+## Team Contributions & Personal Profiles
+
+- **usi moonik** (Founder & Maintainer)  
+  Full project responsibility, smart contract deployment, ownership verification, and transparency oversight.  
+  Ownership cryptographically verified: BSCScan Signed Message #15078 → https://bscscan.com/verifySig/15078
+
+- **amob animo** (Lead Developer & Technical Contributor)  
+  Responsible for smart contract code, deployment support, open-source maintenance, and technical documentation.  
+  Personal GitHub: https://github.com/amobanimo/amob  
+  (Contains README detailing role in USI Moonik and personal blockchain education contributions)
+
+- **houno minp** (Developer Support & Documentation Specialist)  
+  Assists with code reviews, GitHub documentation verification, educational content, and community transparency.  
+  Personal GitHub: https://github.com/hounominp/houno  
+  (Contains README detailing support role in USI Moonik and focus on open-source transparency)
+
+All team members maintain public profiles for full accountability and compliance with blockchain explorer standards.
+
 All contributions are for educational and transparency purposes only.
 All channels are used strictly for transparency, documentation, educational communication, and community updates. No financial or promotional content is shared. Channels are managed directly by the core team, with no impersonation or third-party involvement.
 
