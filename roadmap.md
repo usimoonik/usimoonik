@@ -1,83 +1,108 @@
-Project Roadmap & Scope Declaration
-Roadmap Purpose, Scope & Reviewer Clarification
-This roadmap is published exclusively to address blockchain explorer review requirements, including those enforced by BscScan, with a focus on project clarity, identity transparency, and prevention of misleading expectations.
+# Roadmap & Scope Declaration
 
-USI Moonik is not a startup, company, protocol, platform, ecosystem, or commercial venture of any kind. Accordingly, this roadmap does not describe growth, adoption, monetization, partnerships, or future expansion.
+**USI Moonik Token (USI) – Strictly Educational & Transparency-Only Project**
 
-The function of this roadmap is purely documentary: to provide a verifiable historical and structural reference that clearly defines what actions have occurred, what is currently maintained, and what will explicitly never occur.
+## 1. Roadmap Purpose, Scope & Explicit Reviewer Clarification
 
-This document exists primarily for independent reviewers, auditors, and public verification processes, not for marketing or community promotion.
+This roadmap is published exclusively to satisfy blockchain explorer review requirements — particularly BscScan — by providing maximum clarity, complete transparency, and prevention of any misleading expectations. It details the token's technical structure, completed steps, and permanent limitations in simple, verifiable terms.
 
-Roadmap Philosophy & Explicit Limitations
-Unlike traditional blockchain roadmaps, the USI Moonik roadmap is intentionally descriptive rather than aspirational.
+The USI Moonik Token is a standard BEP-20 token on the BNB Smart Chain, fully compliant with BEP-20 specifications (transfer, balance, approval functions only). USI Moonik is not a startup, company, protocol, platform, ecosystem, DeFi project, game, metaverse, or commercial venture of any kind. It is a static, immutable, educational blockchain reference token with no financial or utility features.
 
-It does not include timelines for features, utility development, integration plans, or ecosystem growth, because none of those activities are part of the project’s scope.
+Therefore, this roadmap does not describe:
 
-This roadmap answers one precise question only:
+- Future features or development plans – Nothing beyond education.
+- Growth, adoption, marketing, or community incentives – No promotions.
+- Monetization, partnerships, exchange listings, or integrations – No financial ties.
+- Utility expansion, upgrades, or ecosystem building – Immutable design.
 
-What has been completed on-chain, what documentation is maintained, and which activities are permanently excluded.
+Its only function is documentary:
 
-This approach is chosen deliberately to avoid future-facing claims, implicit promises, or speculative narratives that frequently result in project rejection during explorer reviews.
+- What has been completed on-chain (immutable facts, verifiable on BscScan).
+- What documentation and identity disclosure are maintained (team profiles included).
+- What activities are permanently excluded and will never occur (to avoid speculation).
 
-Phase 1 – Smart Contract Deployment & On-Chain Finalization (Completed)
-Phase 1 consisted exclusively of deploying a clean, standard-compliant BEP-20 smart contract on the BNB Smart Chain.
+This structure is deliberate to avoid future-facing claims, implicit promises, or speculative narratives that could cause rejection during explorer reviews. All statements are factual and non-misleading.
 
-The contract was deployed with a permanently fixed total supply of 999,000,000,000 USI, defined at the moment of deployment and immutable thereafter.
+## 2. Roadmap Philosophy & Permanent Scope Limitations
 
-No proxy contracts, no upgrade mechanisms, no delayed initialization logic, and no post-deployment control paths were included.
+Unlike traditional blockchain projects, the USI Moonik roadmap is descriptive only — never aspirational or forward-looking. It focuses on what is already verifiable, ensuring compliance with BscScan's emphasis on transparency and non-misrepresentation.
 
-No minting or supply expansion functions
-No burn, deflation, or balance manipulation logic
-No transaction fees, taxes, or redistribution
-No blacklist, whitelist, freeze, or pause features
-No administrative privileges after deployment
-The smart contract source code was publicly verified on BscScan on December 04, 2025, allowing independent bytecode comparison and permanent inspection.
+It answers one precise question:
 
-This phase is complete, irreversible, and cannot be altered by the project creator or any external party.
+What has been permanently finalized on-chain, what minimal documentation is maintained, and which activities are explicitly and forever excluded?
 
-Phase 2 – Documentation, Identity Disclosure & Public Traceability (Completed)
-Phase 2 focused entirely on transparency, identity clarity, and alignment between off-chain documentation and on-chain reality.
+This philosophy eliminates:
 
-The official website was published as a static, non-interactive informational resource. It contains no applications, no financial interfaces, no wallet connections, and no user onboarding systems.
+- Timelines for non-existent features – No development planned.
+- Promises of utility, adoption, or value – Educational only.
+- Any perception of future development or commercial intent – Static project.
 
-Public documentation published during this phase includes:
+The project is intentionally static after deployment — no changes, no additions, no evolution. This is a core transparency feature, with the contract immutable and BEP-20 compliant.
 
-Clear project and token descriptions
-Explicit non-investment and non-commercial statements
-Founder responsibility and accountability disclosure
-Consistency checks between website content and blockchain data
-Communication channels exist solely for public traceability and verification of identity, not for marketing, fundraising, or community incentives.
+## Phase 1 – Smart Contract Deployment & On-Chain Finalization (Completed)
 
-Phase 3 – Ongoing Documentation Integrity (Ongoing)
-Phase 3 is strictly limited to documentation maintenance and clarity improvements.
+This phase covers the initial and final technical creation of the token, all verifiable on-chain.
 
-Refining explanatory language when necessary
-Ensuring accuracy and consistency across public materials
-Responding to blockchain explorer review feedback
-No technical changes, contract updates, feature additions, or integrations are possible or planned during this phase.
+- Contract Deployment: Deployed on BNB Smart Chain with address 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef – Fully BEP-20 compliant.
+- Source Code Verification: Verified on BscScan on 2025-12-04 – Public for audits.
+- Supply Minting: Fixed supply of 999,000,000,000 USI minted once – No further creation.
+- Immutability Lock: No upgrade paths or proxies – Code permanent.
 
-Explicit Non-Roadmap & Permanent Exclusions
-No investment or profit-oriented utility
-No staking, farming, yield, or reward mechanisms
-No governance systems or voting rights
-No exchange listings, partnerships, or integrations
-No foundations, DAOs, or external organizations
-No representation of any public or private institution
-These exclusions are intentional, permanent, and documented to prevent misinterpretation, false expectations, or association with unrelated projects.
+No financial actions occurred; phase focused on educational demonstration.
 
-Verification, Accuracy & Originality Statement
-All statements within this roadmap are independently verifiable through:
+## Phase 2 – Transparency Documentation & Identity Disclosure (Completed)
 
-Immutable on-chain data on the BNB Smart Chain
-Verified smart contract source code on BscScan
-Public website content and version history
-No information in this roadmap is copied from, derived from, or representative of other blockchain projects, companies, or public institutions.
+This phase involved publishing verifiable documents and team details.
 
-Final Compliance & Disclosure Statement
-This roadmap is published solely for transparency, educational reference, and blockchain explorer compliance.
+- Whitepaper & Clarifications: Published non-financial docs on website.
+- Team Disclosure: Founder (usi moonik) and members (amob animo, houno minp) with profiles (X, GitHub, etc.).
+- Social Channels: Set up for transparency only (no promotion).
 
-It does not constitute an offer, solicitation, forecast, or representation of future value, activity, or development.
+All materials are factual and BscScan-compliant.
+
+## Phase 3 – Ongoing Documentation Integrity & Transparency Maintenance (Ongoing – Minimal)
+
+Phase 3 is strictly limited to:
+
+- Minor language refinements for clarity when required by reviewers (e.g., BscScan feedback).
+- Ensuring continued accuracy and consistency across public materials – No new content implying value.
+- Responding to blockchain explorer feedback – Educational clarifications only.
+
+No technical changes, contract modifications, feature additions, integrations, or development are possible or planned. The project remains frozen.
+
+## Permanent Exclusions & Explicit Non-Roadmap (Never Planned, Never Possible)
+
+The following are permanently excluded from the USI Moonik project — they will never occur:
+
+- Any form of investment, profit, yield, or financial return mechanism – Non-financial.
+- Staking, farming, liquidity mining, rewards, airdrops, or incentives – No economics.
+- Governance, voting, DAO, or user rights/entitlements – No community control.
+- Exchange listings, partnerships, integrations, or collaborations – Independent project.
+- Foundations, companies, DAOs, or external organizations – Small team only.
+- Upgrades, new features, smart contract changes, or proxy implementations – Immutable.
+- Marketing, promotion, community building, or hype campaigns – Transparency focus.
+- Any claim of affiliation with Binance, BNB Chain, or third parties – No distortions.
+
+These exclusions are intentional, permanent, and documented to prevent misinterpretation, false expectations, or association with unrelated projects, ensuring BscScan compliance.
+
+## Verification, Accuracy, Originality & Independence
+
+All roadmap statements are independently verifiable through:
+
+- Immutable on-chain data on BNB Smart Chain – Contract address provided.
+- Verified smart contract source code on BscScan – No hidden code.
+- Public website content and historical consistency – Original materials.
+
+All information is 100% original — no copying from other projects, templates, public entities, or institutions. The project is fully independent — no affiliation with Binance, BNB Chain, BscScan, Trust Wallet, or any third-party organization.
+
+## Final Compliance & Disclosure Statement
+
+This roadmap exists solely for transparency, educational reference, and blockchain explorer compliance (especially BscScan).
+
+It does not constitute an offer, solicitation, forecast, roadmap of development, or representation of future value, activity, or utility.
+
+USI Moonik Token is a completed, immutable, educational demonstration — nothing more.
 
 ⬅ Back to Home
 
-© 2026 USI Moonik • Transparency-Only Roadmap • No Speculation • No Misrepresentation
+© 2026 USI Moonik • Transparency-Only Scope Declaration • No Speculation • No Future Promises • No Misrepresentation
