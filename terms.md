@@ -1,73 +1,93 @@
-Terms of Use, Risk Disclosure & Transparency Statement
-Last Updated: January 08, 2026
+# Terms of Use, Risk Disclosure & Full Project Transparency Statement
 
-1. Website Purpose, Scope & Project Nature
-This website and all related pages, documents, and materials are provided exclusively for informational, educational, technical reference, and transparency purposes.
+**Last Updated: January 08, 2026**
 
-USI Moonik is a decentralized, non-commercial, blockchain-based digital token project created for experimental, technical, and community-oriented use cases.
+## 1. Website & Project Purpose – Repeated for Maximum Clarity
 
-The project does not operate as a business, does not provide financial services, and does not engage in commercial activity.
+This entire website, including all pages, documents, links, and materials, is provided **exclusively** for **informational, educational, technical reference, and transparency purposes**.
 
-Nothing on this website shall be interpreted as marketing, promotion, solicitation, or encouragement to acquire the token for financial or speculative purposes.
+USI Moonik Token (USI) is a **decentralized, non-commercial, immutable BEP-20 token** deployed on BNB Smart Chain **only** to serve as:
 
-This clarification is provided explicitly to prevent misleading assumptions about the nature or intent of the project.
+- An educational demonstration of standard BEP-20 token mechanics
+- A public, verifiable example of fixed-supply, minimal smart contract design
+- A transparent reference for blockchain explorers and learners
 
-2. No Financial Advice, No Investment & No Fundraising
-USI Moonik Token (USI) is not a security, share, stock, bond, derivative, or any regulated financial instrument.
+USI Moonik is **explicitly NOT**:
 
-The project has not conducted, does not conduct, and will not conduct any form of fundraising or capital collection, including but not limited to:
+- A registered company, foundation, DAO, or legal entity
+- A financial institution, investment platform, security, or regulated instrument
+- A commercial product, service, or utility with off-chain functionality
+- A fundraising vehicle or profit-oriented project
 
-Initial Coin Offerings (ICO)
-Initial Exchange Offerings (IEO)
-Public or private token sales
-Presales, seed rounds, or venture funding
-Investment, staking, or yield programs
-No statements on this website, documentation, repositories, or communication channels constitute financial advice or imply any expectation of profit, price appreciation, or future value.
+**No** statements, texts, graphics, or communications on this website or related channels shall be interpreted as marketing, promotion, solicitation, invitation, or encouragement to acquire, hold, trade, or speculate on the token for financial, speculative, or profit-seeking purposes.
 
-Any perceived or external valuation of the token is entirely independent of the project and is not initiated, controlled, or influenced by the project maintainers.
+This clarification is **repeated multiple times** across the site to **eliminate any possible ambiguity** during BscScan review, third-party compliance checks, or user interpretation.
 
-3. Explicit User Responsibility & Risk Awareness
-Blockchain-based systems involve inherent technical, operational, and user-related risks.
+## 2. Strong Non-Financial Declaration – No Investment, No Fundraising, No Promises
 
-By interacting with the USI Moonik Token, its smart contract, or any related infrastructure, users explicitly acknowledge and accept full responsibility for their actions and decisions.
+USI Moonik Token (USI) is **not** a security, share, stock, bond, derivative, commodity, investment contract, or any form of regulated financial instrument under any jurisdiction.
 
-Blockchain transactions are irreversible once confirmed
-Loss of private keys or wallet access is permanent
-Smart contracts execute automatically without discretion
-Network congestion, failures, or vulnerabilities may occur
-Third-party platforms may introduce independent risks
-The project does not control user wallets, private keys, blockchain networks, or third-party services.
+The project has **never** conducted, does **not** conduct, and will **never** conduct any form of:
 
-Users are solely responsible for understanding the technology and risks involved before interacting with the token.
+- Initial Coin Offering (ICO), Initial Exchange Offering (IEO), Initial DEX Offering (IDO)
+- Public or private token sale, presale, whitelist, or seed round
+- Any type of fundraising, capital raising, donation drive, or investment solicitation
+- Staking, farming, liquidity mining, yield generation, reward programs, or incentive schemes
+- Any profit-sharing, dividend distribution, revenue sharing, or equity representation
 
-4. Limitation of Liability & No Guarantees
-To the maximum extent permitted by applicable law, the USI Moonik project, its maintainer, and its contributors shall not be liable for:
+**No** statement, disclaimer, documentation, social post, or communication — whether on this website, GitHub, X, Telegram, Medium, Bitcointalk, or elsewhere — constitutes financial advice, investment recommendation, profit expectation, price prediction, or guarantee of returns.
 
-Direct or indirect financial losses
-Market behavior or external price movements
-Smart contract execution outcomes
-Technical errors, bugs, or network issues
-Security incidents affecting third-party platforms
-Use or misuse of publicly available information
-The project provides no warranties, guarantees, or assurances of any kind, express or implied.
+## 3. Full Risk Disclosure & User Responsibility – Absolute Clarity
 
-All usage of the project is undertaken entirely at the user’s own risk and discretion.
+Interacting with blockchain technology, smart contracts, and decentralized tokens like USI Moonik carries **inherent and unavoidable risks**, including but not limited to:
 
-5. Transparency, Verification & Non-Affiliation
-All on-chain data related to the USI Moonik Token, including the smart contract, transactions, and token parameters, is publicly available and independently verifiable through blockchain explorers such as BscScan.
+- **Permanent loss** of funds due to private key compromise, wallet errors, or transaction mistakes
+- **Irreversible transactions** — no chargebacks, refunds, or reversals possible
+- **Smart contract risks** — although minimal and verified, code executes automatically
+- **Network risks** — gas fees, congestion, forks, or protocol changes on BNB Smart Chain
+- **External risks** — phishing, scams, fake websites, or third-party wallet vulnerabilities
+- **No recovery options** — the project provides no support, insurance, or assistance
 
-The project does not claim and expressly disclaims any affiliation, endorsement, or partnership with any government entity, financial institution, company, or other blockchain project.
+Users must perform their own due diligence, understand blockchain mechanics, and accept **full responsibility** for all actions. The project team provides **no guarantees**, **no support**, and **no liability** for user interactions.
 
-Any similarity in name, symbol, structure, or terminology to other projects is coincidental and not intended to mislead, imitate, or misrepresent.
+**No** liability is accepted for any loss, damage, or consequence arising from use of the token, website, or related materials.
 
-6. Acceptance of Terms & Acknowledgement
-By accessing or using this website, you confirm that you have read, understood, and accepted these Terms of Use, Risk Disclosures, and Project Clarifications in their entirety.
+## 4. Limitation of Liability & No Warranties – Maximum Legal Clarity
 
-If you do not agree with any part of these terms, you must immediately discontinue use of the website and related materials.
+To the fullest extent permitted by applicable law, the USI Moonik project, its founder (usi moonik), core contributors, and any associated individuals or entities:
 
-For official communication or clarification:
-usi@usimoonik.com
+- Provide **no warranties**, express or implied, including but not limited to merchantability, fitness for purpose, non-infringement, or accuracy
+- Shall **not** be liable for any direct, indirect, incidental, special, consequential, or punitive damages
+- Disclaim responsibility for financial losses, lost profits, market movements, technical failures, security incidents, or third-party actions
+
+All interaction with the USI Moonik Token, smart contract, website, documentation, or channels is **entirely at the user’s own risk and discretion**.
+
+## 5. Transparency, Independent Verification & Strict Non-Affiliation
+
+All token-related data (supply, transfers, balances, code) is **publicly available and permanently verifiable** on BNB Smart Chain via any blockchain explorer, particularly BscScan.
+
+Verified Contract Address: 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef (source code verified December 04, 2025)
+
+The project **expressly disclaims** and has **no affiliation, endorsement, partnership, sponsorship, or connection** with:
+
+- Binance, BNB Chain team, or Binance Smart Chain developers
+- BscScan, Trust Wallet, PancakeSwap, or any exchange/platform
+- Any government, regulatory body, financial institution, or third-party organization
+
+Any similarity in name, symbol, terminology, or structure is **purely coincidental** and **not intended** to mislead, imitate, or borrow credibility.
+
+## 6. Acceptance of Terms & User Acknowledgement
+
+By accessing this website, reading any page, interacting with the USI Moonik Token, or using any related material, you confirm that you have:
+
+- Read, understood, and fully accepted these Terms of Use, Risk Disclosures, and Project Clarifications in their entirety
+- Acknowledged all risks and your sole responsibility
+- Agreed that no financial advice, promise, or guarantee has been or will be made
+
+If you do **not** agree with any part of these terms, you must **immediately cease** using this website, all related materials, and any interaction with the token.
+
+For official clarification or inquiries: usi@usimoonik.com
 
 ⬅ Back to Home
 
-© 2026 USI Moonik • Public Reference Only • No Financial Advice • Full User Responsibility
+© 2026 USI Moonik • Strictly Educational & Transparency Project • No Financial Advice • Full User Responsibility • No Promises or Guarantees
