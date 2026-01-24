@@ -1,86 +1,97 @@
-Contract Verification & Ownership Clarification
-1. Purpose of This Contract Verification Page
-This page provides a precise, non-promotional, and technically grounded overview of the USI Moonik Token (USI) smart contract.
+# Contract Verification & Ownership Clarification
 
-It exists primarily to satisfy blockchain explorer review standards, particularly those of BscScan, which require:
+## 1. Purpose of This Contract Verification Page – BscScan Compliance Focus
 
-Clear explanation of contract behavior
-Explicit disclosure of ownership scope
-Identification of responsible human parties
-Confirmation of immutability and lack of hidden control
-Nothing on this page constitutes an investment claim, financial promise, security audit, or assurance of value.
+This page delivers a precise, non-promotional, technically accurate overview of the USI Moonik Token (USI) smart contract to satisfy blockchain explorer standards, particularly BscScan requirements for:
 
-All statements are derived exclusively from the publicly verified smart contract source code and observable on-chain behavior.
+- Clear, detailed explanation of contract behavior and mechanics
+- Explicit scope and limitations of ownership/control
+- Identification of responsible human parties with accountability
+- Absolute confirmation of immutability, no hidden functions, and no future manipulation risk
 
-2. Technical Contract Summary
-Blockchain: BNB Smart Chain (BSC)
-Token Standard: BEP-20
-Contract Status: Fully Verified on BscScan
-Verification Date: December 04, 2025
-Upgradeable / Proxy Pattern: Not used
-Mint Function: Not implemented
-Burn Function: Not implemented
-Transaction Fees / Taxes: 0%
-Blacklist / Pause Mechanism: Not present
-Balance or Supply Modification: Not possible
-The smart contract was deployed as a fixed, non-upgradable BEP-20 token.
+**No** content here is an investment claim, financial promise, security guarantee, or value assurance. All information derives directly from the **publicly verified smart contract source code** and observable on-chain behavior.
 
-All logic governing transfers, balances, and total supply is permanently embedded in the deployed bytecode and cannot be altered, extended, or replaced.
+## 2. Technical Contract Summary – Immutable Parameters
 
-3. Supply Immutability & Transfer Neutrality
-The contract contains no minting functionality, meaning no additional tokens can ever be created after deployment.
+- Blockchain: BNB Smart Chain (BSC)
+- Token Standard: BEP-20 (fully compliant, no custom extensions)
+- Contract Status: Fully source-code verified on BscScan
+- Verification Date: December 04, 2025 (bytecode matches published source)
+- Upgradeable / Proxy Pattern: Not used – contract is final and non-replaceable
+- Mint Function: Not implemented – impossible to create new tokens
+- Burn Function: Not implemented – no programmatic supply reduction
+- Transaction Fees / Taxes: 0% – no deductions, reflections, or redistributions
+- Blacklist / Pause / Freeze Mechanism: Not present – no address restrictions
+- Balance or Supply Modification: Not possible by any party
 
-Similarly, no burn or destruction mechanism exists, which means the total supply cannot be reduced.
+The contract is a **fixed, non-upgradeable BEP-20 implementation**. All logic (transfers, balances, totalSupply) is permanently embedded in the deployed bytecode and cannot be altered, extended, or replaced by anyone — including the owner/deployer.
 
-As a result, the total supply is strictly fixed and verifiable on-chain at all times using standard blockchain explorer tools.
+## 3. Supply Immutability & Neutral Transfer Behavior – No Exceptions
 
-The contract also excludes any logic that could influence transfer behavior, such as fees, taxes, penalties, or address-specific rules.
+No minting capability exists → total supply is mathematically fixed at 999,000,000,000 USI forever (verifiable via totalSupply() on BscScan).
 
-Every transfer follows the standard BEP-20 balance model without exception.
+No burn or destruction logic → supply cannot be reduced programmatically.
 
-4. Ownership Structure & Authority Limitations
-The smart contract includes a minimal ownership reference solely for compatibility, traceability, and accountability purposes.
+Transfers are **strictly neutral**: follow standard BEP-20 exactly — sender loses amount, receiver gains exact amount — no taxes, fees, penalties, or side effects.
 
-This ownership reference does not grant any form of financial, administrative, or behavioral control over the token.
+No economic incentives, reflections, or automatic rewards — purely standard transfers.
 
-Specifically, the contract owner cannot:
+## 4. Ownership & Administrative Controls – Strict Limitations
 
-Mint or burn tokens
-Increase or decrease total supply
-Modify user balances
-Restrict, freeze, or block addresses
-Introduce fees, taxes, or transfer rules
-Pause or disable the contract
-From an operational standpoint, the contract behaves equivalently to a fully ownership-renounced token.
+The contract includes a basic Ownable module for initial accountability (publicly visible owner address on BscScan), but the contract owner **CANNOT** (explicitly prevented by code):
 
-5. Deployer, Owner & Human Responsibility Clarification
-The contract was deployed by a specific blockchain address, which is publicly visible on BscScan.
+- Mint, burn, or alter supply
+- Modify user balances or force transfers
+- Restrict, freeze, blacklist, or block addresses
+- Introduce fees, taxes, or custom transfer rules
+- Pause, disable, or stop the contract
+- Upgrade or replace logic (no proxy)
 
-Control of the deployer wallet has been cryptographically proven via an on-chain message signature, which links the deployer address to the publicly disclosed project owner.
+Functionally, the contract behaves as if **ownership is fully renounced** regarding economics and control. Only non-impactful metadata (name/symbol) may be updated — logged on-chain, no effect on token mechanics.
 
-This proof exists to satisfy transparency requirements and to establish clear human accountability, not to imply privileged control.
+## 5. Deployer, Owner & Human Responsibility – Verified Accountability
 
-The deployer / owner role is limited strictly to:
+The contract was deployed by a publicly visible address on BscScan.
 
-Initial contract deployment
-Source code verification submission
-Public documentation and clarification
-No ongoing authority, economic privilege, or unilateral power exists after deployment.
+Deployer wallet control is **cryptographically proven** via signed message — linking it to the disclosed founder (usi moonik). This establishes clear human accountability without implying extra power.
 
-Detailed cryptographic proof of deployer ownership is provided on the Cryptographic Ownership Verification page.
+See dedicated Cryptographic Ownership Verification page for full proof (message, signature, BscScan link).
 
-6. Immutability, Transparency & Independent Verification
-The contract is not upgradeable and does not rely on external logic, delegate calls, or proxy patterns.
+Role limited to:
 
-All execution paths are fully visible within the verified source code and can be independently reviewed by any developer or third party.
+- Initial deployment
+- Source code verification submission
+- Public documentation/clarification
 
-This guarantees that the contract will continue to behave exactly as it does today for its entire lifetime on the blockchain.
+No ongoing authority, economic privilege, or unilateral control exists.
 
-Verified Contract Address:
-0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef
+## 6. Immutability, Transparency & Encouragement for Independent Verification
 
-Reviewers and users are explicitly encouraged to rely on direct on-chain data and the verified source code, rather than off-chain summaries or claims.
+No upgradeable proxy, external calls, or replaceable logic — execution paths are fully visible in verified source code.
+
+Anyone (developers, auditors, reviewers) can independently:
+
+- Read verified code on BscScan
+- Simulate transfers/balances
+- Confirm no hidden functions
+
+Verified Contract Address:  
+0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef  
+
+**Rely on on-chain data and verified code** — not off-chain summaries. This guarantees identical behavior forever.
+
+## 7. Official Verification & Communication Channels
+
+Always verify from these official sources:
+
+- 🌐 Website: https://usimoonik.com
+- 📧 Founder Email: usi@usimoonik.com
+- 🐦 X: https://x.com/usimoonik
+- 💬 Telegram: https://t.me/usimoonik
+- 💻 GitHub: https://github.com/usimoonik/usimoonik
+- 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5570878
+- 🔍 BscScan: Contract Page
 
 ⬅ Back to Home
 
-© 2026 USI Moonik • Contract Verified • Ownership Clarified • No Hidden Control • Public Accountability
+© 2026 USI Moonik • Contract Fully Verified • Ownership Strictly Limited • No Hidden Control • Public Accountability & Educational Only
