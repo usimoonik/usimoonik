@@ -4,6 +4,7 @@ USI Moonik Token (USI) is a fixed-supply BEP-20 utility token deployed on BNB Sm
 
 To address transparency concerns and ensure clarity, the following detailed overview is provided. This project emphasizes complete openness, with all details verifiable through independent sources such as BSCScan, the official GitHub repository, and the project's website. No aspect of the token or project is hidden or ambiguous, and users are encouraged to cross-reference all provided information with on-chain data for validation.
 
+
 ## Token Information
 
 - **Token Name:** USI Moonik Token
