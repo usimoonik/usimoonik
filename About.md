@@ -36,67 +36,71 @@ The supply is **100% immutable and verifiable on-chain forever**
 This design gives every user complete certainty and predictability: the total amount of tokens will **never** increase or be manipulated. You can check the totalSupply() function on BscScan right now and it will always show the same number.
 
 4. Smart Contract Design Philosophy – Minimal, Safe, and Fully Explained
-The smart contract was written to be as **simple, clean, readable, and safe** as possible. The goal was to remove every possible source of risk, confusion, or hidden behavior that is common in many other tokens.
+The smart contract was written to be as **simple, clean, readable, and safe** as possible. The goal was to remove every possible source of risk, confusion, or hidden behavior that could harm users or lead to misunderstandings.
 
-Important: The contract intentionally DOES NOT have any of the following features (which are often red flags or sources of problems):
+**No extra functions beyond standard BEP-20**: Only the basic required methods are implemented. No custom code for taxes, rewards, fees, reflections, burns, or any other mechanics.
+**No owner privileges**: The contract has no "onlyOwner" modifiers or admin functions that could allow changes after deployment. Once deployed, it's 100% hands-off and permanent.
+**No proxy or upgradable patterns**: The code is a single, flat contract with no way to upgrade or replace it later. What you see is what you get, forever.
+**Fully open-source and verified**: The exact Solidity code is published on BscScan with a verified match to the deployed bytecode. Anyone can read and audit it line by line.
+**No dependencies or external calls**: The contract doesn't rely on any other contracts, oracles, or external data. It's completely self-contained and isolated.
+This philosophy makes USI Moonik one of the simplest possible tokens – perfect for educational study, as there's nothing complicated to explain or worry about.
 
-No minting functions (cannot create new tokens)
-No burning functions that allow arbitrary destruction
-No transaction taxes, buy/sell fees, or redistribution mechanisms
-No reflection/reward systems that automatically send tokens to holders
-No blacklists, whitelists, or blocked addresses
-No pause, freeze, or emergency stop functions
-No upgradeable proxies (the contract cannot be changed or replaced)
-No admin functions to seize, move, or manipulate user balances
-No hidden owner privileges beyond basic view functions
-Every single transfer of USI tokens behaves **exactly** like a plain, standard BEP-20 transfer: sender loses amount, receiver gains amount, no fees taken, no side effects. This makes the token extremely safe and easy for anyone to understand and audit.
+5. No Financial Features or Utility – Strict Educational Design
+USI Moonik has **absolutely no financial or utility features**. It was designed this way on purpose to avoid any confusion or false expectations:
 
-5. Source Code Verification & Auditability – Publicly Confirmed
-The **complete smart contract source code** is publicly available and has been **officially verified** on BscScan since December 4, 2025. Verification means BscScan compared the published Solidity code with the actual running bytecode on the blockchain and confirmed they match perfectly.
+**No taxes or fees on transfers**: Every transaction is standard with zero added costs or redistributions.
+**No rewards, staking, or yield**: There are no ways to earn more tokens or generate passive income.
+**No governance or voting**: Holding tokens gives zero rights, influence, or control over anything.
+**No NFT, DeFi, or ecosystem integration**: It's not part of any larger protocol or platform.
+**No airdrops, giveaways, or distributions**: Tokens were never sold or given away for money.
+**No marketing or promotion**: The project doesn't claim any value, growth, or adoption potential.
+The token's **only "use" is as a learning tool** – to demonstrate how a basic token works on-chain. Nothing more.
 
-Anyone—developers, users, auditors, or researchers—can read the code themselves, compile it, and see that it behaves exactly as described. No trust in the team is required because everything is provable on-chain and through public tools.
+6. Deployment Details – Fully Transparent & Verifiable
+The smart contract was deployed in a single, public transaction on the BNB Smart Chain. Here's everything you need to know:
 
-6. Purpose & Strong Non-Investment Declaration – Repeated for Clarity
-USI Moonik Token is **NOT** a financial product, security, investment contract, or anything similar. It was created **only** for educational, technical demonstration, and transparency-learning purposes on the public BNB Smart Chain blockchain.
+Deployment Date: Check BscScan for the exact timestamp of the creation transaction.
+Deployer Address: The public wallet that created the contract is visible on BscScan – no anonymity.
+Transaction Hash: The full deployment tx is recorded forever on-chain for verification.
+Gas Used & Cost: Standard low fees, as the contract is minimal with no complex logic.
+Initial Actions: Only minting the fixed supply – no other setup or transfers at creation.
+You can view the entire deployment process yourself on BscScan by looking at the contract creation tx. Everything is 100% public and unchangeable.
 
-The project has **never** done and will **never** do any of the following:
+7. Owner & Renounce Status – No Control Retained
+The contract was designed without any ongoing owner privileges. Here's the full explanation:
 
-ICO, IEO, IDO, or any kind of token offering/sale
-Presales, public sales, private sales, or token distributions for money
-Any type of fundraising, donations for project, or capital raising
-Staking pools, farming, yield generation, or reward programs
-Profit sharing, dividends, revenue distribution, or equity representation
-The token does **not** represent ownership in any company, shares, rights to profits, or claims on future value. **No** financial returns, price increase guarantees, or investment outcomes are promised, implied, or encouraged in any way. Any use of the token is **voluntary** and at the user's own risk and responsibility.
+No renounceOwnership function: Because there are no owner functions to begin with, there's nothing to renounce.
+Owner Address: The deployer is listed as owner in the standard BEP-20 sense, but has zero special powers.
+No transferable ownership: The owner can't be changed, as there's no transferOwnership function.
+No admin risks: Even if the deployer wallet is compromised, it can't affect the token in any way.
+This setup ensures the token is truly decentralized and tamper-proof from day one. The "owner" label is just a standard BEP-20 field with no real power here.
 
-7. Ownership & Administrative Controls – Very Limited & Transparent
-The smart contract has an "owner" address visible on BscScan for basic accountability and transparency. However, this owner has **extremely limited power** and **cannot** do anything harmful or change the token's core rules.
+8. Security & Audit Readiness – Built for Public Review
+While USI Moonik is not a financial product and doesn't need formal audits, it's designed to be easily auditable by anyone:
 
-The owner CANNOT do any of these things (explicitly prevented by code design):
+Short, simple code: Less than 100 lines of Solidity – easy to read and understand completely.
+No known vulnerabilities: Follows all BEP-20 best practices with no custom logic that could introduce bugs.
+Public source code: Verified on BscScan, so security researchers can analyze it freely.
+No external dependencies: No risk from other contracts or libraries.
+Immutable deployment: Can't be changed, so no upgrade risks.
+If you're a developer, we encourage you to review the code yourself on BscScan. It's a great educational exercise in secure token design.
 
-Create or mint new tokens
-Take away or confiscate tokens from user wallets
-Freeze, pause, or block any wallets or transfers
-Change the total supply or economic rules
-Add taxes, fees, or new functions
-Upgrade or replace the contract
-Ownership exists only to allow public verification and basic interaction if absolutely needed for transparency. Users always keep **full control** of their own tokens and wallets.
+9. Educational Value – Why This Project Exists
+USI Moonik was created specifically to help people learn about blockchain without the confusion of complex or financial projects. Here's how it educates:
 
-8. Security & Full User Responsibility – Clearly Stated
-USI Moonik Token and the project team **do not** hold, custody, manage, or control any user funds or wallets. All interactions happen **directly on the blockchain** using your own personal wallet (e.g., MetaMask, Trust Wallet, etc.).
+Study basic token mechanics: See how transfers, balances, and approvals work in a real contract.
+Understand immutability: Learn why fixed supply and no-admin designs make tokens predictable.
+Practice on-chain verification: Use BscScan to check code, supply, and transactions hands-on.
+Explore transparency best practices: See full team disclosure and documentation in action.
+Avoid common pitfalls: Contrast with risky tokens that have taxes, mints, or hidden owners.
+This project is like an open textbook on simple, safe token creation. Perfect for students, developers, or anyone curious about blockchain basics.
 
-You are **100% responsible** for keeping your private keys, seed phrases, and wallet secure. Always double-check addresses, avoid phishing sites, and never share sensitive information. The project provides only educational information—no financial advice or guarantees.
+10. Team Identification – Full Public Disclosure with Verifiable Profiles
+Unlike many anonymous blockchain projects, USI Moonik has a fully identified founder and small team. All members have public profiles across multiple platforms, with consistent activity and contributions related to blockchain education and transparency. No pseudonyms or hidden identities – everything is verifiable.
 
-9. Founder Information – Full Public Disclosure
-Project Founder & Owner: usi moonik
-This identity is publicly disclosed from day one to ensure full accountability, responsibility, and compliance with transparency best practices in blockchain projects.
+The founder is **usi moonik**, who handles overall project direction and ensures maximum transparency. Contact: usi@usimoonik.com
 
-Email: usi@usimoonik.com
-Official Website: https://usimoonik.com
-
-The founder maintains open communication channels so anyone can reach out with questions about the educational purpose or technical details.
-
-10. Core Team & Public Professional Profiles – Detailed & Verifiable
-To ensure complete openness, credibility, and public accountability, all core team members are **non-anonymous** and provide multiple **publicly verifiable professional profiles** commonly used in the blockchain/Web3 space (such as X/Twitter for announcements, GitHub for code contributions, Telegram for direct communication, Medium for articles, and Bitcointalk for forum presence). These serve as equivalents to professional profiles like LinkedIn in the decentralized ecosystem, where developers and contributors publicly share their work, code, and identity.
+Team members are identified with their public profiles (such as X/Twitter for announcements, GitHub for code contributions, Telegram for direct communication, Medium for articles, and Bitcointalk for forum presence). These serve as equivalents to professional profiles like LinkedIn in the decentralized ecosystem, where developers and contributors publicly share their work, code, and identity.
 
 amob animo – Technical & Smart Contract Review / Development Contributor
 Role: Handles smart contract code review, technical documentation, open-source contributions, and ensures the contract remains minimal and secure for educational demonstration.
@@ -148,5 +152,15 @@ Always verify links from this page or directly from BscScan. Never trust unsolic
 Final repeated disclaimer: This is purely an educational blockchain demonstration. No investment, no financial expectations, no promises. Use at your own discretion.
 
 ⬅ Back to Home
+
+Ownership Verification – BscScan Verified Signature
+For maximum transparency, the contract ownership has been publicly verified via a signed message on BscScan.
+
+Verified Signature ID: #15078
+Deployer/Owner Address: 0x22f646f48a8abf5c7ddbb5f2d8da90641c449
+Message: "I am the owner and deployer of USI Moonik Token (USI) with contract address 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef. This signature verifies my ownership for transparency on usimoonik.com as of January 2026."
+Signature Hash: 0xba6b04693070574c036389416348b5a645e3bc9c26287466c37b5038763249cadb6b5cf66e48ac86afa218477cd1ce054756ff1966eaa610ad5ac49911c
+View on BscScan: https://bscscan.com/verifySig/15078 (Status: Verified)
+This confirms full control and accountability by the project founder (usi moonik). All details are immutable on-chain.
 
 © 2026 USI Moonik – Strictly Educational & Maximum Transparency Project – No Financial Products or Promises
