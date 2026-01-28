@@ -72,7 +72,7 @@ Public Professional Profiles (all clickable & verifiable):
 💬 Telegram (direct communication channel): https://t.me/amobanimo
 🔗 Bitcointalk (forum profile & contributions): https://bitcointalk.org/index.php?topic=5572418
 📷 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
 Houno Minp – Documentation & Communications Coordinator
 Detailed Responsibilities:
@@ -97,6 +97,7 @@ Public Professional Profiles (all clickable & verifiable):
 💬 Telegram (direct support channel): https://t.me/hounominp
 🔗 Bitcointalk (forum profile & contributions): https://bitcointalk.org/index.php?topic=5572597
 📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
 5. No Hidden Participants Statement – Absolute Clarity
 **There are no additional developers, no secret moderators, no undisclosed administrators, no investors with influence, no external organizations, no marketing agencies, and no other parties** that have any operational authority, control, access, or role in the USI Moonik project.
