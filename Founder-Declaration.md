@@ -44,22 +44,24 @@ In addition to my direct responsibility as founder, the project is supported by 
 
 Their roles are limited to transparency support, documentation accuracy, and educational consistency — no financial or operational control.
 
-amob animo – Technical review, code verification, transparency assistance
+amob animo – Technical docs & contract review
 🐦 X: https://x.com/amobanimo
 💻 GitHub: https://github.com/amobanimo/amob
 💬 Telegram: https://t.me/amobanimo
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
-📸 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
-houno minp – Transparency content, documentation accuracy, disclosure support
+
+houno minp – Documentation & communication support
 🐦 X: https://x.com/hounominp
 💻 GitHub: https://github.com/hounominp/houno
 💬 Telegram: https://t.me/hounominp
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
-📸 Instagram: https://www.instagram.com/hounominp/
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
 No anonymous contributors, proxy operators, marketing agencies, or hidden controllers are involved. All accountability is traceable to named individuals.
 
