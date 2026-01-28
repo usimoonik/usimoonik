@@ -130,7 +130,28 @@ Encourage participation for financial gain
 Offer or imply any economic benefit
 This entire project exists only as an educational demonstration of transparent smart contract deployment and public disclosure practices.
 
-8. Verification & Independent Review
+8. Team & Accountability – Public Identification of Responsible Individuals
+USI Moonik is maintained solely by the following identified individuals. No other persons, entities, or anonymous parties have any role, control, access, or influence over the project, contract, documentation, or website.
+
+All team members are publicly disclosed with multiple verifiable professional profiles. Their responsibilities are strictly limited to educational, transparency, and maintenance tasks — with no financial authority, token control, or economic involvement of any kind.
+
+usi moonik – Project Founder & Overall Accountability Holder
+Role: Initial smart contract deployment, domain/website ownership, primary public contact, ensuring strict educational purpose and maximum transparency.
+Contact and Professional Profiles:
+Website | Email | X (Twitter) | Facebook | Instagram | Telegram | GitHub | Medium | Bitcointalk
+amob animo
+Role: Smart contract review, technical validation, documentation, and open-source contributions. This includes auditing for BEP-20 compliance, security simplicity, and educational clarity.
+Contact and Professional Profiles:
+X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
+houno minp
+Role: Documentation, educational content creation, public communications, and transparency updates. This involves preparing and maintaining disclosure pages, explanations, and compliance-aligned materials.
+Contact and Professional Profiles:
+X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
+Important: No team member has any control over token supply, user balances, minting/burning, fees, or any financial aspect of the contract. All authority is limited to off-chain educational and documentation tasks. The smart contract is fully immutable since deployment.
+
+Anyone can independently verify the identities and contributions through the linked public profiles and on-chain data.
+
+9. Verification & Independent Review
 All statements made in this document and across the entire USI Moonik project are independently verifiable through primary sources:
 
 On-chain data: Viewable directly on BscScan
