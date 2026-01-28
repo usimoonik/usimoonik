@@ -154,25 +154,25 @@ All information presented here is accurate, fact-checked, and consistent with on
 
 No misleading statements, exaggerated claims, financial promises, or distortions of public entities exist. This whitepaper is published solely to satisfy blockchain-explorer transparency and identification requirements, providing clear public documentation.
 
-Signed:
-amob animo – Technical Lead
+amob animo – Technical docs & contract review
 🐦 X: https://x.com/amobanimo
 💻 GitHub: https://github.com/amobanimo/amob
 💬 Telegram: https://t.me/amobanimo
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
-📸 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
-houno minp – Documentation Lead
+
+houno minp – Documentation & communication support
 🐦 X: https://x.com/hounominp
 💻 GitHub: https://github.com/hounominp/houno
 💬 Telegram: https://t.me/hounominp
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
-📸 Instagram: https://www.instagram.com/hounominp/
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
-
 Date: January 2026
 
 22. Ownership Verification – BscScan Verified Signature
