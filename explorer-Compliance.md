@@ -1,119 +1,94 @@
-Explorer Compliance & Maximum Transparency Statement
-USI Moonik Token (USI) • BEP-20 • BNB Smart Chain • Educational & Transparency Project
+Project Identity, Ownership & Accountability
+USI Moonik Token (USI) • Maximum Public Identity Disclosure & Explorer Compliance Page
 
-1. Purpose, Scope & Reason for This Detailed Disclosure Page
-This dedicated page is created and published specifically to provide clear, verifiable, non-ambiguous, and extremely detailed information about the USI Moonik Token project for blockchain explorers (especially BscScan), manual reviewers, auditors, and the public.
+1. Project Identity & Clear Public Definition – Detailed Overview
+USI Moonik is a completely independent, non-corporate blockchain educational project deployed exclusively on the BNB Smart Chain using the standard BEP-20 token protocol.
 
-It is intentionally written in extended, repetitive, and explicit form to:
+The project consists of a single, immutable smart contract (verified on BscScan since December 04, 2025), accompanied by open, truthful documentation, fully disclosed ownership, and publicly identifiable contributors. Its only goal is to serve as a real-world, on-chain reference for how a minimal, transparent, and predictable BEP-20 token can exist without complexity, hidden features, or financial mechanics.
 
-Eliminate any possible misinterpretation or automated rejection during BscScan review
-Fully satisfy requirements for clear project/token identity and accessibility of information
-Provide transparent disclosure of founder, team, and responsibility with public professional profiles
-Prevent any perception of misrepresentation, copied content, or affiliation with third parties
-This document explicitly clarifies what the project is, what it is not, who is responsible, and that all information is original and truthful.
+USI Moonik is explicitly NOT a company, foundation, DAO, investment platform, financial service, startup, or profit-oriented entity. It does not operate under any registered corporate structure, does not represent shares, securities, equity, or any form of ownership rights, and does not generate or promise profits, yields, or returns.
 
-2. Token Identification & Full On-Chain Verifiability – Clear & Accessible
-USI Moonik Token (symbol: USI) is a standard BEP-20 token deployed on the BNB Smart Chain (BSC). All parameters, behavior, supply, and transactions are permanently recorded on the public blockchain and can be independently verified by anyone without trusting any off-chain party.
-
+Key On-Chain Facts (permanently fixed and verifiable):
 Token Name: USI Moonik Token
 Symbol: USI
-Standard: BEP-20 (fully compliant with official specification)
-Network: BNB Smart Chain (BSC)
-Total Supply: Exactly 999,000,000,000 USI (999 billion) – permanently fixed at deployment, no minting possible
+Standard: BEP-20 (fully compliant)
+Total Supply: Exactly 999,000,000,000 USI (999 billion) – no minting possible
 Decimals: 18
-Smart Contract Address: 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef
-Verification Status: Source code fully verified on BscScan since December 04, 2025 (bytecode matches published code)
-Anyone can check:
+Contract Address: 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef (source code verified on BscScan 2025-12-04)
 
-Total supply (totalSupply() function)
-All transfers and balances
-Absence of mint/burn/tax functions
-Immutability of the code
-Direct link: View Verified Contract on BscScan
+Repeated reminder: This is purely an educational demonstration — no financial product, no investment implications.
 
-This level of on-chain transparency ensures maximum accessibility of project and token information — directly addressing any concern about "no clear information available".
+2. Ownership, Control & Full Accountability – Public Founder Disclosure
+Founder & Sole Project Owner:
+usi moonik
 
-3. Smart Contract Design, Hard-Coded Limitations & Complete Immutability
-The smart contract was intentionally written to be minimal, readable, and completely immutable — removing every possible source of future control, inflation, or risk.
+The founder is publicly and unambiguously identified from the project's inception and bears full, exclusive, and personal responsibility for every aspect: smart contract creation/deployment, BscScan verification, website/domain management, official documentation, public communications, and strict adherence to transparency and educational-only principles.
 
-No minting function → supply cannot be increased (fixed at 999 billion forever)
-No burn function → no arbitrary destruction of tokens
-No transaction taxes, fees, reflections, or redistribution logic
-No blacklist, whitelist, freeze, pause, or address restriction mechanisms
-No upgradeable proxy, UUPS, or replaceable logic → contract cannot be changed
-No owner/admin functions to modify balances or interfere with transfers
-No hidden or obfuscated code → fully verifiable and auditable
-The contract implements only the standard BEP-20 functions (transfer, approve, allowance, balanceOf, totalSupply) — nothing more. This design choice eliminates all possible economic manipulation or central control, making it a pure educational demonstration.
+All critical actions — including contract deployment, source code publication, content updates, and responses to transparency inquiries — are executed directly under the authority and accountability of the identified founder. There is no delegated control to anonymous parties, third-party services, proxy operators, or external entities.
 
-Full source code is available on BscScan Code Tab for independent review.
+Founder Contact (for verification or official inquiries): usi@usimoonik.com
 
-4. Explicit Project Purpose – Strictly Educational, Non-Financial & Non-Commercial
-USI Moonik Token is a strictly educational blockchain demonstration project created to showcase how a minimal, immutable BEP-20 token operates on BNB Smart Chain.
+3. Project Governance & Decision-Making Structure – Founder-Led
+USI Moonik is founder-owned and founder-operated with a simple, transparent structure: all decisions, updates, and responsibilities are managed directly by the founder, supported by the publicly disclosed core team members (detailed below).
 
-It serves as a public learning reference for:
+There is no DAO, governance token, voting mechanism, community control, or decentralized decision-making. The project is not run by a committee, board, foundation, or anonymous group.
 
-Understanding smart contract deployment and verification
-Demonstrating fixed supply and immutability in practice
-Exploring BEP-20 standard behavior on-chain
-Supporting BscScan/explorer review and compliance processes
-The project is NOT:
+This centralized accountability ensures maximum clarity for BscScan and explorers: every action traces back to identifiable individuals.
 
-A financial product, security, investment opportunity, or profit-generating asset
-Connected to any fundraising, ICO/IDO, presale, or token sale
-Promising or implying any returns, appreciation, or economic value
-A commercial platform, utility token, or service provider
-Involved in staking, yield, rewards, airdrops, or incentive programs
-No governance, voting, DAO, or user rights/entitlements
-No investment, commercial, or profit-oriented intent exists. This is repeated to eliminate any possible confusion.
+4. Core Team Members & Public Professional Profiles – Full Disclosure
+To meet BscScan and explorer standards for non-anonymous teams, core contributors are fully disclosed with multiple verifiable public professional profiles (X for public engagement, GitHub for code contributions, Telegram for communication, Bitcointalk for forum presence, Medium for articles — equivalents to LinkedIn in the blockchain/Web3 space).
 
-5. Project Ownership, Responsibility & Full Team Disclosure with Public Profiles
-To fully comply with BscScan requirements for clear, non-anonymous accountability and public professional profiles:
+Team members assist the founder in specific, non-financial roles: documentation review, transparency maintenance, and educational consistency. They have no control over the smart contract, token supply, or on-chain operations.
 
-Founder & Project Owner
-usi moonik – Sole deployer, contract verifier, documentation maintainer, and accountable party.
-
-Responsible for deployment, BscScan verification (2025-12-04), website content, and transparency compliance.
-
-Core Team Members – Public Professional Profiles
-amob animo – Technical review, documentation, code transparency
+amob animo – Technical docs & contract review
 🐦 X: https://x.com/amobanimo
 💻 GitHub: https://github.com/amobanimo/amob
 💬 Telegram: https://t.me/amobanimo
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
-📸 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
-houno minp – Transparency content, documentation accuracy
+
+houno minp – Documentation & communication support
 🐦 X: https://x.com/hounominp
 💻 GitHub: https://github.com/hounominp/houno
 💬 Telegram: https://t.me/hounominp
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
-📸 Instagram: https://www.instagram.com/hounominp/
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
-These are real public professional profiles commonly used in blockchain/Web3 (equivalent to LinkedIn for contributors). Full details on Team Transparency and Identity pages. No anonymous operators exist.
+These profiles demonstrate ongoing contributions to blockchain education and transparency. No anonymous team members exist. See Tokenomics and About pages for full immutable parameters and non-investment declarations.
 
-6. Originality, Accuracy & Strict Non-Misrepresentation / Independence
-All content (text, descriptions, disclaimers, structure) is 100% original and written specifically for USI Moonik — no copying from other projects, templates, public entities, or institutions.
+5. Non-Misrepresentation & Complete Independence Statement
+USI Moonik is a fully independent project with zero affiliation, endorsement, partnership, sponsorship, or connection to Binance, BNB Chain team, Trust Wallet, BscScan, PancakeSwap, any exchange, blockchain foundation, or third-party organization.
 
-The project is completely independent and has zero affiliation, partnership, endorsement, sponsorship, or connection with:
+The project does not reuse, impersonate, copy, or misrepresent:
 
-Binance, BNB Chain team, Binance Smart Chain developers
-BscScan, Trust Wallet, PancakeSwap, or any exchange/platform
-Any government, regulator, financial institution, or third-party organization
-Any similarly named token, project, or brand
-Any coincidental similarity in terminology is unintentional and does not imply relationship or borrowed credibility.
+The identity, branding, logos, or authority of any public institution or company
+Existing blockchain projects, tokens, or protocols
+Any trademarks, names, or official entities
+All names, descriptions, graphics, texts, and representations across official resources are 100% original, accurate, and intentionally non-misleading. Every claim is supported by public on-chain data and verifiable documentation.
 
-This declaration is repeated to fully address any concern about incorrect or misrepresented information.
+6. Official Resources, Documentation & Verification Links
+All official content is maintained directly by the founder with team support. Key verification points:
 
-7. Final Veracity, Compliance & Explorer-Ready Statement
-All information on this page and the entire project is accurate, consistent, intentionally transparent, and non-misleading.
+🌐 Website: https://usimoonik.com
+📧 Founder Email: usi@usimoonik.com
+🐦 X Official: https://x.com/usimoonik
+📘 Facebook: https://www.facebook.com/usimoonik/
+📷 Instagram: https://www.instagram.com/usimoonik/
+💬 Telegram: https://t.me/usimoonik
+💻 GitHub: https://github.com/usimoonik/usimoonik
+✍ Medium: https://medium.com/@usimoonik
+🔗 Bitcointalk Thread: https://bitcointalk.org/index.php?topic=5570878
+🔍 BscScan Contract (Verified 2025-12-04): View on BscScan
+7. Explorer Transparency Declaration – Full Commitment to Standards
+This page is created and published specifically to meet and exceed blockchain explorer transparency requirements, including those of BscScan, for clear project identity, disclosed ownership, team accountability, non-anonymous control, and truthful representation.
 
-USI Moonik Token (USI) is structured as a non-commercial, educational, immutable BEP-20 demonstration that fully complies with BscScan’s disclosure expectations, including clear identity, non-anonymous responsibility, originality, and absence of financial/promotional claims.
-
-Reviewers are encouraged to verify everything directly on-chain via BscScan.
+All information here is complete, factual, consistent, and aligned with every other official USI Moonik resource (About, Tokenomics, Team pages). The project is ready for review as a transparent, educational-only, immutable BEP-20 demonstration.
 
 ⬅ Back to Home
 
-© 2026 USI Moonik • Explorer-Ready • Maximum Transparency • No Misrepresentation • Educational Only
+© 2026 USI Moonik • Project Identity Fully & Publicly Disclosed • Explorer-Ready • Strictly Educational & Transparent
