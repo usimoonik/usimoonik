@@ -79,13 +79,13 @@ This strict non-financial policy ensures compliance and prevents any speculation
 The USI Moonik project is maintained by a small, publicly identifiable team of real individuals. Their roles are limited to non-financial activities like documentation and transparency maintenance. BscScan requires clear team disclosure with professional profiles, which are provided below for verification.
 
 amob animo
-Role: Technical documentation support and contract review.
-Responsibilities: Ensuring code clarity, BEP-20 compliance, and assisting with verifications.
-Profiles: X | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook
+Role: Smart contract review, technical validation, and verification. This includes auditing the code for compliance with BEP-20 standards and ensuring no distortions or misrepresentations.
+Contact and Professional Profiles:
+X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
 houno minp
-Role: Documentation clarity and public information coordination.
-Responsibilities: Maintaining consistent materials and supporting BscScan clarifications.
-Profiles: X | GitHub | Telegram | Bitcointalk | Medium | Instagram
+Role: Documentation, educational materials, and public communication. This involves creating clear, expanded content like this page to address transparency requirements and explain concepts in simple terms.
+Contact and Professional Profiles:
+X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
 Team members are responsible solely for documentation, transparency, and public disclosure. No financial management, token distributions, or custodial services are offered. All members are accountable and verifiable.
 
 8. Legal Position & Risk Clarification
