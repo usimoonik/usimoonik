@@ -40,22 +40,24 @@ To meet BscScan and explorer standards for non-anonymous teams, core contributor
 
 Team members assist the founder in specific, non-financial roles: documentation review, transparency maintenance, and educational consistency. They have no control over the smart contract, token supply, or on-chain operations.
 
-amob animo – Technical documentation, smart contract review support
+amob animo – Technical docs & contract review
 🐦 X: https://x.com/amobanimo
 💻 GitHub: https://github.com/amobanimo/amob
 💬 Telegram: https://t.me/amobanimo
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
-📸 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
-houno minp – Documentation accuracy, transparency content
+
+houno minp – Documentation & communication support
 🐦 X: https://x.com/hounominp
 💻 GitHub: https://github.com/hounominp/houno
 💬 Telegram: https://t.me/hounominp
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
-📸 Instagram: https://www.instagram.com/hounominp/
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
 These profiles demonstrate ongoing contributions to blockchain education and transparency. No anonymous team members exist. See Tokenomics and About pages for full immutable parameters and non-investment declarations.
 
