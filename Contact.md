@@ -48,7 +48,7 @@ Role: Documentation clarity and public information coordination.
 Responsibilities: Maintaining consistency across written materials, assisting with transparency disclosures for BscScan, supporting public reference content like clarification pages, and ensuring all statements are factual and verifiable. This role is educational and non-financial.
 
 Public Professional Profiles (for verification):
-X (Twitter) | GitHub (code repositories) | Telegram | Bitcointalk (forum discussions) | Medium (articles) | Instagram | Email
+X (Twitter) | GitHub (code repositories) | Telegram | Bitcointalk (forum discussions) | Medium (articles) | Instagram | Facebook | Email
 Core team members do not:
 
 Control the smart contract or on-chain functions.
