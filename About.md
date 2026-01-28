@@ -1,5 +1,8 @@
 About USI Moonik Token (USI)
+
 Official Maximum Transparency, Extremely Detailed Technical Documentation, Full Accountability, and Educational Purpose Explanation
+
+
 
 1. Project Overview – Very Clear and Detailed Explanation
 USI Moonik Token (USI) is a completely standard BEP-20 digital token that has been deployed on the BNB Smart Chain (also known as BSC). This project was created from the very beginning with a strong focus on **maximum transparency**, full public verifiability, and serving only as an **educational and technical demonstration** for people who want to learn about blockchain, smart contracts, and how tokens work on public networks like BNB Smart Chain.
@@ -98,7 +101,7 @@ This project is like an open textbook on simple, safe token creation. Perfect fo
 10. Team Identification – Full Public Disclosure with Verifiable Profiles
 Unlike many anonymous blockchain projects, USI Moonik has a fully identified founder and small team. All members have public profiles across multiple platforms, with consistent activity and contributions related to blockchain education and transparency. No pseudonyms or hidden identities – everything is verifiable.
 
-The founder is **usi moonik**, who handles overall project direction and ensures maximum transparency. Contact: usi@usimoonik.com
+The founder is usi moonik, who handles overall project direction and ensures maximum transparency. Contact: usi@usimoonik.com
 
 Team members are identified with their public profiles (such as X/Twitter for announcements, GitHub for code contributions, Telegram for direct communication, Medium for articles, and Bitcointalk for forum presence). These serve as equivalents to professional profiles like LinkedIn in the decentralized ecosystem, where developers and contributors publicly share their work, code, and identity.
 
@@ -111,7 +114,7 @@ Telegram: https://t.me/amobanimo
 Bitcointalk (forum profile & contributions): https://bitcointalk.org/index.php?topic=5572418
 Medium (articles & explanations): https://medium.com/@amobanimo
 Instagram: https://www.instagram.com/amobanimo/
-Facebook: https://www.facebook.com/profile.php?id=61586825204047
+Facebook: https://www.facebook.com/amobanimo
 Email: amobanimo@usimoonik.com
 houno minp – Documentation, Communications & Community Support
 Role: Manages project documentation, public communications, website content, and helps explain the educational and transparency aspects to the community.
@@ -122,6 +125,7 @@ Telegram: https://t.me/hounominp
 Bitcointalk (forum profile & contributions): https://bitcointalk.org/index.php?topic=5572597
 Medium (articles & updates): https://medium.com/@hounominp
 Instagram: https://www.instagram.com/hounominp/
+Facebook: https://www.facebook.com/hounominpTech
 Email: hounominp@usimoonik.com
 All team members are publicly tied to the project through these verifiable channels. Their profiles show ongoing contributions to transparency-focused blockchain education. No anonymous team members exist.
 
