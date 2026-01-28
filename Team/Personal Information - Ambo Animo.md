@@ -13,8 +13,8 @@
   - Telegram (direct communication channel): https://t.me/amobanimo  
   - Bitcointalk (forum profile & contributions): https://bitcointalk.org/index.php?topic=5572418  
   - Instagram (project visuals & updates): https://www.instagram.com/amobanimo/  
-  - Facebook (professional networking): https://www.facebook.com/profile.php?id=61586825204047  
-
+  - Facebook (professional networking): https://www.facebook.com/amobanimo
+  - Email : amobanimo@usimoonik.com
 ## Professional Summary
 Amob Animo is an experienced blockchain developer with over 15 years in software engineering and a specialized focus on smart contract security, auditing, and minimalistic design principles. Known for advocating open-source transparency, Amob has contributed to numerous decentralized projects, emphasizing code that is secure, verifiable, and free from unnecessary complexities. In the USI Moonik Token project, Amob oversees the technical integrity of the BEP-20 token on BNB Smart Chain, ensuring immutable features like fixed supply and zero fees are maintained through rigorous reviews and educational explanations. This role builds on a career dedicated to reducing attack vectors in smart contracts and promoting public verifiability, with a commitment to ethical development that prioritizes user trust and decentralization. Amob's work has been featured in technical communities, where the emphasis is on practical, educational implementations rather than speculative ventures.
 
@@ -50,3 +50,4 @@ Technical Lead & Smart Contract Maintainer
 With over 15 years in the field, Amob is an active participant in Web3 communities via GitHub, Bitcointalk, and X, sharing insights on secure development.
 
 © 2026 Amob Animo – Transparency-Focused Blockchain Contributor
+
