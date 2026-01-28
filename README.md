@@ -72,7 +72,7 @@ The project owner, usi moonik, is the founder and primary maintainer, responsibl
   - Bitcointalk: [https://bitcointalk.org/index.php?topic=5572418](https://bitcointalk.org/index.php?topic=5572418)  
   - Medium: [https://medium.com/@amobanimo](https://medium.com/@amobanimo)  
   - Instagram: [https://www.instagram.com/amobanimo/](https://www.instagram.com/amobanimo/)  
-  - Facebook: [https://www.facebook.com/profile.php?id=61586825204047](https://www.facebook.com/profile.php?id=61586825204047)  
+  - Facebook: https://www.facebook.com/amobanimo
   - Email: amobanimo@usimoonik.com
 
 - **Houno Minp – Community Manager & Marketing Lead**  
@@ -82,7 +82,8 @@ The project owner, usi moonik, is the founder and primary maintainer, responsibl
   - Telegram: [https://t.me/hounominp](https://t.me/hounominp)  
   - Bitcointalk: [https://bitcointalk.org/index.php?topic=5572597](https://bitcointalk.org/index.php?topic=5572597)  
   - Medium: [https://medium.com/@hounominp](https://medium.com/@hounominp)  
-  - Instagram: [https://www.instagram.com/hounominp/](https://www.instagram.com/hounominp/)  
+  - Instagram: [https://www.instagram.com/hounominp/](https://www.instagram.com/hounominp/)
+  - Facebook:https://www.facebook.com/hounominpTech
   - Email: hounominp@usimoonik.com
 
 The project is independently maintained by the core team. There is no anonymous team, DAO, foundation, registered company, corporation, or third-party entity. The team is jointly responsible for:
