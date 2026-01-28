@@ -28,22 +28,24 @@ To ensure maximum transparency and satisfy BscScan requirements for clear identi
 Founder & Project Owner: usi moonik – original deployer, contract verifier, website maintainer, primary accountable contact. Email: usi@usimoonik.com
 Core team members (limited to technical/documentation support, no contract/financial control):
 
-amob animo – Technical review & documentation
+amob animo – Technical docs & contract review
 🐦 X: https://x.com/amobanimo
 💻 GitHub: https://github.com/amobanimo/amob
 💬 Telegram: https://t.me/amobanimo
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
 📷 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
-houno minp – Transparency & content support
+
+houno minp – Documentation & communication support
 🐦 X: https://x.com/hounominp
 💻 GitHub: https://github.com/hounominp/houno
 💬 Telegram: https://t.me/hounominp
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
 📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
 These profiles are **public professional channels** in Web3 (X for announcements, GitHub for contributions, etc.) — equivalent to LinkedIn for blockchain contributors. Full details and cross-verification are on the dedicated Team Transparency and Identity pages.
 
