@@ -1,87 +1,104 @@
-Cryptographic Ownership & Deployer Verification
-USI Moonik Token (USI) – BNB Smart Chain – Maximum On-Chain Accountability Proof
+Contract Verification & Ownership Clarification
+1. Purpose of This Contract Verification Page – BscScan Compliance Focus
+This page delivers a precise, non-promotional, technically accurate overview of the USI Moonik Token (USI) smart contract to satisfy blockchain explorer standards, particularly BscScan requirements for:
 
-1. Purpose, Context & Strong Transparency Motivation
-This dedicated page exists exclusively to deliver clear, technical, cryptographically secure, and independently verifiable proof that links the USI Moonik smart contract to its publicly declared human project owner and deployer. The token is a standard BEP-20 on BNB Smart Chain, compliant with all specifications, and exists for educational transparency only.
+Clear, detailed explanation of contract behavior and mechanics
+Explicit scope and limitations of ownership/control
+Identification of responsible human parties with accountability
+Absolute confirmation of immutability, no hidden functions, and no future manipulation risk
+**No** content here is an investment claim, financial promise, security guarantee, or value assurance. All information derives directly from the **publicly verified smart contract source code** and observable on-chain behavior.
 
-It directly and comprehensively addresses common blockchain explorer review concerns, especially those raised by BscScan and similar platforms, including:
+2. Technical Contract Summary – Immutable Parameters
+Blockchain: BNB Smart Chain (BSC)
+Token Standard: BEP-20 (fully compliant, no custom extensions)
+Contract Status: Fully source-code verified on BscScan
+Verification Date: December 04, 2025 (bytecode matches published source)
+Upgradeable / Proxy Pattern: Not used – contract is final and non-replaceable
+Mint Function: Not implemented – impossible to create new tokens
+Burn Function: Not implemented – no programmatic supply reduction
+Transaction Fees / Taxes: 0% – no deductions, reflections, or redistributions
+Blacklist / Pause / Freeze Mechanism: Not present – no address restrictions
+Balance or Supply Modification: Not possible by any party
+The contract is a **fixed, non-upgradeable BEP-20 implementation**. All logic (transfers, balances, totalSupply) is permanently embedded in the deployed bytecode and cannot be altered, extended, or replaced by anyone — including the owner/deployer.
 
-Lack of clear, provable project ownership and human accountability – Provided with team profiles.
-Absence of verifiable identity behind the deployer wallet – Cryptographic proof below.
-Reliance on mere text claims without cryptographic backing – On-chain verification used.
-Potential risk of misrepresentation, impersonation, or untraceable control – No distortions.
-Rather than depending on screenshots, promises, or off-chain statements, this page relies solely on standard blockchain cryptography — a mathematical, zero-trust method to prove private key control over the deployer wallet. This is the gold standard for on-chain identity verification worldwide.
+3. Supply Immutability & Neutral Transfer Behavior – No Exceptions
+No minting capability exists → total supply is mathematically fixed at 999,000,000,000 USI forever (verifiable via totalSupply() on BscScan).
 
-All content is 100% specific to USI Moonik, original, and not copied/adapted/derived from any external project, public institution, or unrelated entity. The project remains strictly educational — no financial product or investment.
+No burn or destruction logic → supply cannot be reduced programmatically.
 
-2. Explanation of Cryptographic Verification – Simple & Detailed
-Blockchain networks like BNB Smart Chain use asymmetric cryptography (public/private key pairs) to prove ownership without revealing secrets.
+Transfers are **strictly neutral**: follow standard BEP-20 exactly — sender loses amount, receiver gains exact amount — no taxes, fees, penalties, reflections, or address-specific rules.
 
-To prove control:
+This eliminates dilution risk, hidden inflation/deflation, or manipulation — core for educational transparency.
 
-The wallet owner signs a human-readable message using their private key (never shared).
-This produces a cryptographic signature (a long hex string).
-Anyone can use public tools to verify: the signature matches the message + wallet address, proving the signer controls the private key.
-This method is:
+4. Ownership Structure & Strict Authority Limitations
+Ownership exists **only** for traceability and basic accountability — a minimal, standard Ownable reference.
 
-Zero-trust — no need to believe anyone.
-Publicly verifiable — anyone can check on BscScan or tools like MyEtherWallet/MetaMask.
-Immutable — Signatures are permanent on-chain records.
-For USI Moonik, this proves the deployer wallet (which holds the supply) is controlled by the declared founder, ensuring non-anonymous ownership as per BscScan.
+The contract owner **CANNOT** (explicitly prevented by code):
 
-3. Deployer Wallet Address & Token Context
-Deployer & Owner Wallet Address:
-0x22f646f48aa8bf5c7d5dc5bb5f2d8da90641c449
+Mint, burn, or alter supply
+Modify user balances or force transfers
+Restrict, freeze, blacklist, or block addresses
+Introduce fees, taxes, or custom transfer rules
+Pause, disable, or stop the contract
+Upgrade or replace logic (no proxy)
+Functionally, the contract behaves as if **ownership is fully renounced** regarding economics and control. Only non-impactful metadata (name/symbol) may be updated — logged on-chain, no effect on token mechanics.
 
-This wallet:
+5. Deployer, Owner & Human Responsibility – Verified Accountability
+The contract was deployed by a publicly visible address on BscScan.
 
-Deployed the USI contract on BNB Smart Chain.
-Holds the initial minted supply (verifiable on BscScan).
-Has no special powers – Contract is immutable.
-Contract Address: 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef – Verified on 2025-12-04.
+Deployer wallet control is **cryptographically proven** via signed message — linking it to the disclosed founder (usi moonik). This establishes clear human accountability without implying extra power.
 
-4. Full Signed Message, Signature & Verification Details
-Signed Message (Exact Text):
-"I am the owner and original deployer of the USI Moonik Token (USI), deployed on BNB Smart Chain under contract address 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef. This cryptographic message is signed to publicly verify my ownership, responsibility, and accountability for this project on usimoonik.com for blockchain explorer transparency review purposes as of January 2026."
-Cryptographic Signature (Full Hex):
-0xba60b469d307a0574c036389416348b5a6345e32bac19c26287466c37b5038763249cad6b5cf66e48ac86afa218477cd16ce054756ff1966eaa610ad5acb49911c
-This signature can only be generated by the private key holder of the deployer address — mathematically impossible otherwise.
+See dedicated Cryptographic Ownership Verification page for full proof (message, signature, BscScan link).
 
-5. Independent, Public & Third-Party Verification Instructions
-The signature has been verified using BscScan's official public tool — no private services needed.
+Role limited to:
 
-Direct BscScan Verification Link:
-View & Verify Signature on BscScan
+Initial deployment
+Source code verification submission
+Public documentation/clarification
+No ongoing authority, economic privilege, or unilateral control exists.
 
-How anyone can verify independently:
+6. Immutability, Transparency & Encouragement for Independent Verification
+No upgradeable proxy, external calls, or replaceable logic — execution paths are fully visible in verified source code.
 
-Go to BscScan Verified Signatures tool (or MyEtherWallet/MetaMask sign/verify section).
-Enter Address: 0x22f646f48aa8bf5c7d5dc5bb5f2d8da90641c449
-Paste the exact Signed Message above.
-Enter the Signature hex.
-Click Verify → it will confirm "Valid" if the signer controls the key.
-This proves beyond doubt the deployer identity without trust.
+Anyone (developers, auditors, reviewers) can independently:
 
-6. Compliance Scope & Explicit Limitations – No Extra Powers
-This cryptographic proof is solely for transparency and accountability — nothing more.
+Read verified code on BscScan
+Simulate transfers/balances
+Confirm no hidden functions
+Verified Contract Address:
+0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef
 
-It does NOT:
+**Rely on on-chain data and verified code** — not off-chain summaries. This guarantees identical behavior forever.
 
-Grant new permissions to the deployer/owner – No mint/burn.
-Allow contract upgrades, modifications, or replacements – Immutable.
-Enable minting, burning, freezing, taxing, or balance control – BEP-20 only.
-Provide financial authority over users/tokens – Non-financial.
-Introduce governance, voting, or off-chain control – Educational.
-The contract remains immutable and minimal — verified on BscScan 2025-12-04.
+7. Official Verification & Communication Channels
+Always verify from these official sources:
 
-7. Good-Faith Disclosure, Accuracy & Independence Statement
-This page is published in good faith to meet/exceed BscScan review standards for:
+🌐 Website: https://usimoonik.com
+📧 Founder Email: usi@usimoonik.com
+🐦 X: https://x.com/usimoonik
+💬 Telegram: https://t.me/usimoonik
+💻 GitHub: https://github.com/usimoonik/usimoonik
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5570878
+🔍 BscScan: Contract Page
+amob animo – Technical docs & contract review
+🐦 X: https://x.com/amobanimo
+💻 GitHub: https://github.com/amobanimo/amob
+💬 Telegram: https://t.me/amobanimo
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
+✍ Medium: https://medium.com/@amobanimo
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
+📧 Email: amobanimo@usimoonik.com
 
-Clear, provable ownership – With team profiles.
-Human accountability via cryptography – On-chain proof.
-Non-misleading, original disclosures – No distortions.
-All content is accurate, original, and USI Moonik-specific — no impersonation of public entities, no affiliation with Binance/BNB Chain or others.
-
+houno minp – Documentation & communication support
+🐦 X: https://x.com/hounominp
+💻 GitHub: https://github.com/hounominp/houno
+💬 Telegram: https://t.me/hounominp
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
+✍ Medium: https://medium.com/@hounominp
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
+📧 Email: hounominp@usimoonik.com
 ⬅ Back to Home
 
-© 2026 USI Moonik • Deployer Identity Cryptographically Verified • Maximum Transparency • Educational Only
+© 2026 USI Moonik • Contract Fully Verified • Ownership Strictly Limited • No Hidden Control • Public Accountability & Educational Only
