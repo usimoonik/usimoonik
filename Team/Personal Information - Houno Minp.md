@@ -12,7 +12,8 @@
   - Medium (articles & transparency posts): https://medium.com/@hounominp  
   - Telegram (direct support channel): https://t.me/hounominp  
   - Bitcointalk (forum discussions & project updates): https://bitcointalk.org/index.php?topic=5572597  
-  - Instagram (visual content & community engagement): https://www.instagram.com/hounominp/  
+  - Instagram (visual content & community engagement): https://www.instagram.com/hounominp/
+  - facebook : https://www.facebook.com/hounominpTech
 
 ## Professional Summary
 Houno Minp is a seasoned documentation specialist and communications coordinator with over 12 years of experience in the Web3 and blockchain sectors. Specializing in creating clear, verifiable, and user-friendly materials, Houno has a proven track record of fostering transparency in decentralized projects. In the USI Moonik Token project, Houno ensures that all public-facing content is accurate, educational, and strictly adheres to non-financial guidelines, helping users understand blockchain concepts without any promotional hype. With a background in technical writing and community management, Houno excels at translating complex ideas into accessible formats, building trust through consistent and honest communication. This expertise has been honed through years of working on open-source initiatives and educational platforms, where emphasis is placed on ethical disclosure and community-driven transparency.
@@ -49,3 +50,4 @@ Documentation & Communications Lead
 With over 12 years in the field, Houno has built a reputation for reliability in Web3 communications, actively contributing to education through Medium articles and community channels.
 
 © 2026 Houno Minp – Transparency and Education Coordinator
+
