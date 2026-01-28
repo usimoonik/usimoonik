@@ -51,12 +51,25 @@ usi moonik – Responsible for overall transparency and verifications.
 
 Identified Core Team Members (with Professional Profiles for Verification):
 
-amob animo
-Role: Technical review & documentation – Ensures BEP-20 compliance and code clarity.
-Profiles: X | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
-houno minp
-Role: Public disclosures & transparency content – Coordinates factual updates.
-Profiles: X | GitHub | Telegram | Bitcointalk | Medium | Instagram | Email
+amob animo – Technical docs & contract review
+🐦 X: https://x.com/amobanimo
+💻 GitHub: https://github.com/amobanimo/amob
+💬 Telegram: https://t.me/amobanimo
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
+✍ Medium: https://medium.com/@amobanimo
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
+📧 Email: amobanimo@usimoonik.com
+
+houno minp – Documentation & communication support
+🐦 X: https://x.com/hounominp
+💻 GitHub: https://github.com/hounominp/houno
+💬 Telegram: https://t.me/hounominp
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
+✍ Medium: https://medium.com/@hounominp
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
+📧 Email: hounominp@usimoonik.com
 No anonymous administrators, third-party marketing firms, DAOs, foundations, or external organizations have access to or control over these channels. All management is transparent and verifiable through the profiles.
 
 5. Non-Misrepresentation & Impersonation Disclaimer
