@@ -78,14 +78,14 @@ Role: Original deployer and current contract owner
 Responsibility: Contract deployment, website ownership, and official communication. Ownership is for transparency only, with no control over tokens.
 
 Core Team Members
-amob animo – Technical Lead
-Role: Smart contract review, code validation, GitHub maintenance, and technical consistency. Ensures BEP-20 compliance and no distortions.
-Professional Profiles:
+amob animo
+Role: Smart contract review, technical validation, and verification. This includes auditing the code for compliance with BEP-20 standards and ensuring no distortions or misrepresentations.
+Contact and Professional Profiles:
 X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
-houno minp – Documentation & Communications Lead
-Role: Documentation accuracy, educational materials, and public updates. Creates clear content for transparency.
-Professional Profiles:
-X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Email
+houno minp
+Role: Documentation, educational materials, and public communication. This involves creating clear, expanded content like this page to address transparency requirements and explain concepts in simple terms.
+Contact and Professional Profiles:
+X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
 All listed members are real, identifiable individuals directly involved in the project. No anonymous controllers or hidden operators exist. Profiles allow for public verification of their expertise.
 
 6. Authenticity & Non-Misrepresentation Statement
