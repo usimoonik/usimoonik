@@ -67,7 +67,7 @@ amob animo – Technical docs & contract review
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
 📷 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
 
 houno minp – Documentation & communication support
@@ -77,6 +77,7 @@ houno minp – Documentation & communication support
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
 📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
 Team has **no** contract control, wallets, or financial roles.
 
