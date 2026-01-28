@@ -106,6 +106,25 @@ Official channels (always verify):
 💻 GitHub: https://github.com/usimoonik/usimoonik
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5570878
 🔍 BscScan: Contract (verified 2025-12-04)
+amob animo – Technical docs & contract review
+🐦 X: https://x.com/amobanimo
+💻 GitHub: https://github.com/amobanimo/amob
+💬 Telegram: https://t.me/amobanimo
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
+✍ Medium: https://medium.com/@amobanimo
+📷 Instagram: https://www.instagram.com/amobanimo/
+📘 Facebook: https://www.facebook.com/amobanimo
+📧 Email: amobanimo@usimoonik.com
+
+houno minp – Documentation & communication support
+🐦 X: https://x.com/hounominp
+💻 GitHub: https://github.com/hounominp/houno
+💬 Telegram: https://t.me/hounominp
+🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
+✍ Medium: https://medium.com/@hounominp
+📷 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
+📧 Email: hounominp@usimoonik.com
 ⬅ Back to Home
 
 © 2026 USI Moonik • Strictly Educational & Transparency Project • No Financial Claims • No Investment • Full Disclaimer & User Responsibility
