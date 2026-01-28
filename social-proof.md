@@ -67,12 +67,14 @@ The project is maintained independently with support from clearly identified con
 
 Contributors:
 
-amob animo – Technical documentation & repository support
-Professional Profiles:
+amob animo
+Role: Smart contract review, technical validation, and verification. This includes auditing the code for compliance with BEP-20 standards and ensuring no distortions or misrepresentations.
+Contact and Professional Profiles:
 X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
-houno minp – Documentation clarity & public information coordination
-Professional Profiles:
-X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Email
+houno minp
+Role: Documentation, educational materials, and public communication. This involves creating clear, expanded content like this page to address transparency requirements and explain concepts in simple terms.
+Contact and Professional Profiles:
+X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
 Contributors do not control the token, do not manage funds, and do not operate any financial infrastructure. Their roles are supportive and transparent.
 
 6. Official Resources & Reference Links
