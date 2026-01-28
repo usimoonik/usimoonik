@@ -1,6 +1,7 @@
 Audit & Security Report
 USI Moonik Token (USI) • BscScan-Verified & Transparent
 
+
 Introduction & Purpose
 This page provides a detailed audit and security report for the USI Moonik Token (USI) smart contract. As an educational, non-financial BEP-20 token on the BNB Smart Chain, the contract is minimal and immutable, reducing the need for extensive external audits. However, to meet transparency standards like those of BscScan, we have conducted an internal review and made the code fully open for community verification.
 
