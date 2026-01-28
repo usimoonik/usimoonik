@@ -83,7 +83,7 @@ Role: Technical review & documentation.
 Profiles: X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
 houno minp
 Role: Public disclosures & transparency content.
-Profiles: X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Email
+Profiles: X (Twitter) | GitHub | Telegram | Bitcointalk | Medium | Instagram | Facebook | Email
 9. Official Social & Reference Channels
 X (Twitter): https://x.com/usimoonik – Transparency notices.
 Facebook: https://www.facebook.com/usimoonik/ – Educational archives.
