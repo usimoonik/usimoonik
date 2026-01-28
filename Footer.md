@@ -74,7 +74,7 @@ amob animo – Technical documentation, smart contract review, GitHub maintenanc
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572418
 ✍ Medium: https://medium.com/@amobanimo
 📸 Instagram: https://www.instagram.com/amobanimo/
-📘 Facebook: https://www.facebook.com/profile.php?id=61586825204047
+📘 Facebook: https://www.facebook.com/amobanimo
 📧 Email: amobanimo@usimoonik.com
 houno minp – Documentation accuracy, public disclosures, educational consistency
 🐦 X: https://x.com/hounominp
@@ -83,6 +83,7 @@ houno minp – Documentation accuracy, public disclosures, educational consisten
 🔗 Bitcointalk: https://bitcointalk.org/index.php?topic=5572597
 ✍ Medium: https://medium.com/@hounominp
 📸 Instagram: https://www.instagram.com/hounominp/
+📘 Facebook: https://www.facebook.com/hounominpTech
 📧 Email: hounominp@usimoonik.com
 No anonymous operators exist. All responsibility is directly with named individuals. Full details on Team Transparency and Identity pages.
 
@@ -124,6 +125,16 @@ Consistent, verifiable, and truthful data across all materials
 Strictly non-financial, non-promotional, educational-only communication
 No misleading claims, hype, or investment implications
 USI Moonik Token exists solely as an educational, transparent, immutable smart contract demonstration on BNB Smart Chain. It has no commercial intent, no financial promises, and no custodial responsibilities.
+
+8. Ownership Verification – BscScan Verified Signature
+For maximum transparency, the contract ownership has been publicly verified via a signed message on BscScan.
+
+Verified Signature ID: #15078
+Deployer/Owner Address: 0x22f646f48a8abf5c7ddbb5f2d8da90641c449
+Message: "I am the owner and deployer of USI Moonik Token (USI) with contract address 0x349dC946aC011F2d22a10801AeAf1ef46B1ef6Ef. This signature verifies my ownership for transparency on usimoonik.com as of January 2026."
+Signature Hash: 0xba6b04693070574c036389416348b5a645e3bc9c26287466c37b5038763249cadb6b5cf66e48ac86afa218477cd1ce054756ff1966eaa610ad5ac49911c
+View on BscScan: https://bscscan.com/verifySig/15078 (Status: Verified)
+This confirms full control and accountability by the project founder (usi moonik). All details are immutable on-chain.
 
 ⬅ Back to Home
 
