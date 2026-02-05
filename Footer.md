@@ -1,4 +1,6 @@
 Transparency, Ownership & Explorer Compliance
+*************************************************
+
 Official long-form public disclosure for BscScan review, maximum verifiability, and complete accountability – Educational BEP-20 Token Demonstration Only
 
 1. Project Overview & Clear Public Purpose – Detailed Explanation
@@ -141,3 +143,4 @@ This confirms full control and accountability by the project founder (usi moonik
 © 2026 USI Moonik – Strictly Educational & Transparency Project
 No Investment Claims • No Financial Promises • No Custodial Services • Full Public Accountability
 Official Contact: usi@usimoonik.com
+
